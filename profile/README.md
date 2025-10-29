@@ -10,6 +10,8 @@ A proposta surgiu a partir da necessidade de automatizar a emissão de certifica
 
 ## 💻 Tecnologias e Ferramentas  
 
+> O código está sendo desenvolvido [neste repositório](https://github.com/Solucao-Emissao-Certificados/codigo-solucao).
+
 **Tecnologias utilizadas:**  
 - React.js + Vite  
 - HTML, CSS e JavaScript  
@@ -20,7 +22,7 @@ A proposta surgiu a partir da necessidade de automatizar a emissão de certifica
 - **GitHub Projects** → Gestão de tarefas e documentação  
 - **Figma** → Criação do design do site  
 - **Discord e WhatsApp** → Comunicação entre os membros  
-- **GitHub** → Versionamento e colaboração remota  
+- **GitHub** → Versionamento e colaboração remota
 
 > O desenvolvimento do projeto é realizado de forma **remota**, com encontros presenciais pontuais nos laboratórios do CEUB.
 
@@ -41,7 +43,7 @@ A organização abriga diferentes repositórios voltados para o desenvolvimento 
 - **Back-end / Banco de Dados** → Integração com o Supabase.  
 - **Documentação** → Escopo, atas, histórias de usuário e relatórios técnicos.  
 
-> Para mais detalhes, consulte o [Escopo do Projeto](https://docs.google.com/document/d/1RyOy5Z-JlPvY33MGmqHTKD1hUmSSMS9YT-ahRDMf9HI/edit?usp=sharing).
+> Para mais detalhes, consulte o [repositório com os nossos documentos](https://github.com/Solucao-Emissao-Certificados/documentos-solucao).
 
 ---
 
