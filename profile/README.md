@@ -51,7 +51,8 @@ A organização abriga diferentes repositórios voltados para o desenvolvimento 
 
 - **Felipe Tolentino** → Desenvolvedor, Designer UI/UX, Gerente de Projeto, Documentador  
 - **Luis Guilherme** → Desenvolvedor, Designer UI/UX, Documentador  
-- **Lucas Daniel** → Desenvolvedor, Gerente de Projeto, DBA (Administrador de Banco de Dados), Especialista em Segurança  
+- **Lucas Daniel** → Desenvolvedor, Gerente de Projeto, DBA (Administrador de Banco de Dados), Especialista em Segurança
+- **Miguel Castro** → Documentador
 
 ---
 
